@@ -67,7 +67,7 @@
   "devDependencies": {
     "devtron": "1.4.0",
     "electron": "4.0.1",
-    "electron-compile": "6.4.3",
+    "electron-compile": "6.4.4",
     "electron-packager": "13.0.1",
     "electron-rebuild": "1.8.2",
     "lorem-ipsum": "1.0.6",
