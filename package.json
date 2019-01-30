@@ -51,7 +51,7 @@
     "open": "0.0.5",
     "rand-token": "0.4.0",
     "rcedit": "1.1.1",
-    "rimraf": "2.6.2",
+    "rimraf": "2.6.3",
     "sanitize-filename": "1.6.1",
     "sax": "^1.2.4",
     "serve-favicon": "2.5.0",
